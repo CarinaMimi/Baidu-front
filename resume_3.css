@@ -1,0 +1,56 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.left-side{
+	height: 70px;
+	background-color: #858585;
+	
+}
+
+h2{
+	margin-left: 20px;
+	line-height: 70px;
+	color: #FFF;
+}
+
+ .basic-information h4{
+ 	float: left;
+	width: 10%;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	background-color: #D6D6D6;	
+}
+.basic-information p
+{
+	float: left;
+	height: 100px;
+	margin-left: 20px;
+}
+.contact-information h4,
+.skills-information h4,
+.education-information h4,
+.project-information h4{
+	clear: left;
+	float: left;
+	width: 10%;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	background-color: #D6D6D6;	
+}
+.contact-information p,
+.skills,
+.edu,
+.exp{
+	float: left;
+	height: 100px;
+	margin-left: 20px;
+}
+br{
+	display: none;
+}
+hr{
+	clear: both;
+}

@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+h2{
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+h4{
+	font-size: 25px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+strong{
+	margin-right: 10px;
+}
+span{
+	margin-right: 30px;
+}
+.tech-skill,.edu1,.exper1{
+	margin-bottom: 20px;
+}
+a{
+	margin-right: 30px;
+}
+hr{
+	display: none;
+}
